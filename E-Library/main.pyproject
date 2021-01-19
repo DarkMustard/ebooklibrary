@@ -1,0 +1,3 @@
+{
+    "files": ["resources.qrc","mainwindow.ui","bookwidget.ui","main.py","renamedialog.ui"]
+}
